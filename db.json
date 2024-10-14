@@ -1,0 +1,62 @@
+[
+    {
+        "Id_employee": 1,
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "dni": "12345678"
+    },
+    {
+        "Id_employee": 2,
+        "nombre": "Ana",
+        "apellido": "García",
+        "dni": "87654321"
+    },
+    {
+        "Id_employee": 3,
+        "nombre": "Luis",
+        "apellido": "Martínez",
+        "dni": "23456789"
+    },
+    {
+        "Id_employee": 4,
+        "nombre": "María",
+        "apellido": "López",
+        "dni": "34567890"
+    },
+    {
+        "Id_employee": 5,
+        "nombre": "Carlos",
+        "apellido": "Hernández",
+        "dni": "45678901"
+    },
+    {
+        "Id_employee": 6,
+        "nombre": "Laura",
+        "apellido": "Díaz",
+        "dni": "56789012"
+    },
+    {
+        "Id_employee": 7,
+        "nombre": "Jorge",
+        "apellido": "Martín",
+        "dni": "67890123"
+    },
+    {
+        "Id_employee": 8,
+        "nombre": "Sofía",
+        "apellido": "González",
+        "dni": "78901234"
+    },
+    {
+        "Id_employee": 9,
+        "nombre": "Diego",
+        "apellido": "Rodríguez",
+        "dni": "89012345"
+    },
+    {
+        "Id_employee": 10,
+        "nombre": "Valeria",
+        "apellido": "Torres",
+        "dni": "90123456"
+    }
+]
