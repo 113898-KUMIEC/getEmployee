@@ -1,4 +1,5 @@
-[
+{
+    "employee":[
     {
         "Id_employee": 1,
         "nombre": "Juan",
@@ -60,3 +61,4 @@
         "dni": "90123456"
     }
 ]
+}
