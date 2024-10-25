@@ -1,64 +1,64 @@
 {
     "employee": [
         {
-            "id_employee": 1,
+            "id": 1,
             "first_name": "John",
             "last_name": "Perez",
-            "dni": "12345678"
+            "document_number": "12345678"
         },
         {
-            "id_employee": 2,
+            "id": 2,
             "first_name": "Anna",
             "last_name": "Garcia",
-            "dni": "87654321"
+            "document_number": "87654321"
         },
         {
-            "id_employee": 3,
+            "id": 3,
             "first_name": "Lewis",
             "last_name": "Martinez",
-            "dni": "23456789"
+            "document_number": "23456789"
         },
         {
-            "id_employee": 4,
+            "id": 4,
             "first_name": "Mary",
             "last_name": "Lopez",
-            "dni": "34567890"
+            "document_number": "34567890"
         },
         {
-            "id_employee": 5,
+            "id": 5,
             "first_name": "Charles",
             "last_name": "Hernandez",
-            "dni": "45678901"
+            "document_number": "45678901"
         },
         {
-            "id_employee": 6,
+            "id": 6,
             "first_name": "Laura",
             "last_name": "Diaz",
-            "dni": "56789012"
+            "document_number": "56789012"
         },
         {
-            "id_employee": 7,
+            "id": 7,
             "first_name": "George",
             "last_name": "Martin",
-            "dni": "67890123"
+            "document_number": "67890123"
         },
         {
-            "id_employee": 8,
+            "id": 8,
             "first_name": "Sophia",
             "last_name": "Gonzalez",
-            "dni": "78901234"
+            "document_number": "78901234"
         },
         {
-            "id_employee": 9,
+            "id": 9,
             "first_name": "James",
             "last_name": "Rodriguez",
-            "dni": "89012345"
+            "document_number": "89012345"
         },
         {
-            "id_employee": 10,
+            "id": 10,
             "first_name": "Valerie",
             "last_name": "Torres",
-            "dni": "90123456"
+            "document_number": "90123456"
         }
     ]
 }
