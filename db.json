@@ -4,61 +4,61 @@
             "id": 1,
             "first_name": "John",
             "last_name": "Perez",
-            "document_number": "12345678"
+            "doc_number": "12345678"
         },
         {
             "id": 2,
             "first_name": "Anna",
             "last_name": "Garcia",
-            "document_number": "87654321"
+            "doc_number": "87654321"
         },
         {
             "id": 3,
             "first_name": "Lewis",
             "last_name": "Martinez",
-            "document_number": "23456789"
+            "doc_number": "23456789"
         },
         {
             "id": 4,
             "first_name": "Mary",
             "last_name": "Lopez",
-            "document_number": "34567890"
+            "doc_number": "34567890"
         },
         {
             "id": 5,
             "first_name": "Charles",
             "last_name": "Hernandez",
-            "document_number": "45678901"
+            "doc_number": "45678901"
         },
         {
             "id": 6,
             "first_name": "Laura",
             "last_name": "Diaz",
-            "document_number": "56789012"
+            "doc_number": "56789012"
         },
         {
             "id": 7,
             "first_name": "George",
             "last_name": "Martin",
-            "document_number": "67890123"
+            "doc_number": "67890123"
         },
         {
             "id": 8,
             "first_name": "Sophia",
             "last_name": "Gonzalez",
-            "document_number": "78901234"
+            "doc_number": "78901234"
         },
         {
             "id": 9,
             "first_name": "James",
             "last_name": "Rodriguez",
-            "document_number": "89012345"
+            "doc_number": "89012345"
         },
         {
             "id": 10,
             "first_name": "Valerie",
             "last_name": "Torres",
-            "document_number": "90123456"
+            "doc_number": "90123456"
         }
     ]
 }
